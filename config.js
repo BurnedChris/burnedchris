@@ -15,18 +15,6 @@ module.exports = {
       label: "Articles",
       path: "/",
     },
-    {
-      label: "About me",
-      path: "/pages/about",
-    },
-    {
-      label: "Contact me",
-      path: "/pages/contacts",
-    },
-    {
-      label: "Everfund.co.uk",
-      path: "https://everfund.co.uk",
-    },
   ],
   author: {
     name: "Christopher Burns",
