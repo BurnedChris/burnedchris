@@ -23,11 +23,15 @@ module.exports = {
       label: "Contact me",
       path: "/pages/contacts",
     },
+    {
+      label: "Everfund.co.uk",
+      path: "https://everfund.co.uk",
+    },
   ],
   author: {
     name: "Christopher Burns",
     photo: "/photo.jpg",
-    bio: "Founder of dverfund.co.uk & tapstudio.co.uk",
+    bio: "Founder of Everfund and Tapstudio",
     contacts: {
       email: "",
       facebook: "",
